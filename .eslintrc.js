@@ -16,7 +16,7 @@ module.exports = {
     "rules": {
 			"indent": [
 				"error",
-				4
+				2
 			],
 			"linebreak-style": [
 				"warn",
@@ -26,7 +26,7 @@ module.exports = {
 				"error",
 				"single"
 			],
-			"seim": [
+			"semi": [
 				"error",
 				"always"
 			]
